@@ -43,6 +43,7 @@
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <code><img height="50" src="https://skillicons.dev/icons?i=vscode"></code>
   <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Looker.svg"></code>
+  <code><img height="50" src="https://skillicons.dev/icons?i=sqlite"></code>
   <hr>
   <p align="center">
 
