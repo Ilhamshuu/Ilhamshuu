@@ -30,6 +30,7 @@
 <br>
   <code><img height="50" src="https://skillicons.dev/icons?i=github"></code>
   <code> <img height="50" src="https://skillicons.dev/icons?i=py"> </code>
+  <code> <img height="50" src="https://skillicons.dev/icons?i=git"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
