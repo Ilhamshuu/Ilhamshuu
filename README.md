@@ -17,7 +17,7 @@
 <br>
 
 - A passionate Self-taught Data Science/Analyst
-- Interest in financial and telecomunication field
+- Interest in financial field
 - Learning Web Development by Self
 - Personal website [soon](drop)
 - I’m currently open for a new job opportunity, this is my [LinkedIn](https://www.linkedin.com/in/ilham-muhammad-shuhada-366528232/)
