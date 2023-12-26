@@ -19,7 +19,7 @@
 - A passionate Self-taught Data Science/Analyst
 - Interest in financial field
 - Learning Web Development by Self
-- Personal website [soon](drop)
+- Personal website [See Here](https://ilhamshuu.github.io/Portfolio_Ilham/)
 - I’m currently open for a new job opportunity, this is my [LinkedIn](https://www.linkedin.com/in/ilham-muhammad-shuhada-366528232/)
 
 <br>
